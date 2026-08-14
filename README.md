@@ -89,6 +89,7 @@ The project is implemented in Python and uses the following main libraries:
 ## Installation
 Clone the repository:
 git clone https://github.com/USERNAME/SPECT-Iterative-Reconstruction.git
+
 cd SPECT-Iterative-Reconstruction
 
 Install the required Python packages:
